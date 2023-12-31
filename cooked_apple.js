@@ -9,7 +9,7 @@ elements.cooked_apple = {
     stateHigh: "ash",
     tempLow: -30,
     stateLow: iced_apple,
-    density: 475
+    density: 475,
 };
 
 elements.iced_apple = {
@@ -20,7 +20,7 @@ elements.iced_apple = {
 	state: "solid",
 	tempHigh: 10,
 	stateHigh: "cooked_apple",
-	density: 745
+	density: 745,
 };
 		
 	
