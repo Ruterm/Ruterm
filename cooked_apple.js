@@ -8,9 +8,5 @@ elements.cooked_apple = {
 	stateHigh: "ash",
 	tempHigh: 200,
 	tempLow: -273,
-	stateLow: "cooked_apple",
-	hardness: 0,
-	burn: 0,
 	burnInto: "ash"	
-	}
 };
